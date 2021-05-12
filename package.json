@@ -17,7 +17,7 @@
     "@types/google-protobuf": "^3.7.2",
     "@types/inquirer": "^7.3.0",
     "google-protobuf": "^4.0.0-rc.2",
-    "grpc": "^1.24.3",
+    "grpc": "^1.24.9",
     "inquirer": "^7.3.3",
     "rimraf": "^3.0.2",
     "shelljs": "^0.8.4",
